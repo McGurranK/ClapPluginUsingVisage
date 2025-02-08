@@ -1,0 +1,3 @@
+[submodule "Visage"]
+	path = Visage
+	url = https://github.com/VitalAudio/visage.git
